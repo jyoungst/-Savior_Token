@@ -1,5 +1,5 @@
 # -Savior_Token                                                                                                                                            Created by Jason Youngstrand 
-                                                                                                                                                          C.T.I & CEO
+                                                                                                                                                    
 Savior Token: A Next-Generation Crypto Wallet Recovery and Security Solution
 Abstract
 The Savior Token is designed to transform the landscape of crypto asset security and recovery in the Web3 ecosystem. By integrating a multi-layered identity verification system, including personal biometric and health data, the Savior Token enables secure recovery and protection against identity theft, ransomware, and unauthorized access. This white paper outlines the innovative features, implementation strategies, and potential applications of the Savior Token, aimed at returning billions of dollars currently locked in inaccessible wallets to the market while enhancing user control and privacy.
